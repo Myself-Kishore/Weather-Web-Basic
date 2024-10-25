@@ -8,15 +8,12 @@ Live Time Display: Displays current time and auto-updates every second.
 Responsive Design: Built with a responsive layout to adapt to various screen sizes.
 
 ## Tech Stack
-Frontend: HTML, CSS, JavaScript
-Backend: Flask
-API: OpenWeather API
-
-## Libraries:
-Font Awesome for icons
-Google Fonts for typography
-Setup and Installation
-
+### Frontend:  HTML, CSS, JavaScript
+### Backend: Flask
+### API: OpenWeather API
+### Libraries:
+   Font Awesome for icons
+   Google Fonts for typography
 
 If using Flask, set up the environment and start the server:
 bash
